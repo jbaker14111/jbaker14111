@@ -1,22 +1,14 @@
-### Hi there 👋
-<h1> hi this is my for you!</h1>
+### Hi! My name is Josiah Baker.
 
-1. this is cool
-2. better
-3. Suit!
-4. <href
-this is [youtube](youtube.com)
-<!--
-**jbaker14111/jbaker14111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+&emsp; I am currently a student at Liberty University Online, pursuing my Bachelor of Science in 
+computer science, cybersecurity. I am actively seeking an internship to further my career as a cybersecurity analyst. Currently employed at the Law
+Offices of Mark W. Doran, P.L.L.C. as a law clerk, I bring experience in client
+communication, legal document preparation, and extensive research. Eager to apply my
+academic knowledge and practical expertise, I look forward to collaborating with a
+diverse group of professionals in the pursuit of a successful cybersecurity career. <br> 
 
-Here are some ideas to get you started:
+&emsp; I am glad you are viewing my GitHub. Please look around. You will find my projects, papers, and certificates I have completed. These are frequently being updated, so please visit regularly!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Projects</h2>
+<h2>Papers</h2>
+<h2>Certificates</h2>
