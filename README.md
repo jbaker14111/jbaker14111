@@ -12,5 +12,6 @@ diverse group of professionals in the pursuit of a successful cybersecurity care
 <h2>Projects</h2>
 <h2>Papers</h2>
 <h2>Certificates</h2>
+![](https://github.com/jbaker14111/jbaker14111/assets/86685211/2bb2a593-2a51-4647-b2d1-56568cf596f2)
 
 
