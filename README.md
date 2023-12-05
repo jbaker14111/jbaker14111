@@ -12,6 +12,5 @@ diverse group of professionals in the pursuit of a successful cybersecurity care
 <h2>Projects</h2>
 <h2>Papers</h2>
 <h2>Certificates</h2>
-![Coursera 4L85TP6JUV2H-1](https://github.com/jbaker14111/jbaker14111/assets/86685211/cfaf545d-299a-47f1-87ac-0c921c5e28d7)
 
 
