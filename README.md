@@ -11,6 +11,7 @@ diverse group of professionals in the pursuit of a successful cybersecurity care
 
 <h2>Projects</h2>
 <h2>Papers</h2>
+![Email Policy Paper]("/Papers/Email Policy, Josiah Baker.pdf")
 <h2>Certificates</h2>
 Currently in pursuit of my Google Cybersecurity Professional Certificate. Expected by February 1, 2024. <br> <br>
 <img src="/Certificates/GoogleFoundationsToCybersecurityCert.jpg" width="400">
