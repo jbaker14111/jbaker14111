@@ -12,6 +12,6 @@ diverse group of professionals in the pursuit of a successful cybersecurity care
 <h2>Projects</h2>
 <h2>Papers</h2>
 <h2>Certificates</h2>
-![google cert]('Google Cert-1.png')
+![google cert](Certificates/GoogleFoundationsToCybersecurityCert.jpg)
 
 
