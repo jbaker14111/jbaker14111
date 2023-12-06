@@ -2,7 +2,7 @@
 
 &emsp; I am currently a student at Liberty University Online, pursuing my Bachelor of Science in 
 computer science, cybersecurity. I am actively seeking an internship to further my career as a cybersecurity analyst. Currently employed at the Law
-Offices of Mark W. Doran, PLLC as a law clerk, where I bring experience in client
+Offices of Mark W. Doran, PLLC as a law clerk, I bring experience in client
 communication, legal document preparation, and extensive research. Eager to apply my
 academic knowledge and practical expertise, I look forward to collaborating with a
 diverse group of professionals in the pursuit of a successful cybersecurity career. <br> 
