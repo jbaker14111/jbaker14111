@@ -15,7 +15,7 @@ diverse group of professionals in the pursuit of a successful cybersecurity care
 <a href="/Papers/SQL_Experience.pdf">SQL Experience </a>
 <h2>Certificates</h2>
 Currently in pursuit of my Google Cybersecurity Professional Certificate. Expected by February 1, 2024. <br> <br>
-<img src="/Certificates/GoogleFoundationsToCybersecurityCert.jpg" width="400">
 <img src="/Certificates/MicrosoftIntroToComputersCert.jpg" width="400">
+<img src="/Certificates/GoogleFoundationsToCybersecurityCert.jpg" width="400">
 <img src="/Certificates/GooglePlayItSafeManageSecurityRisks.png" width="400">
 
