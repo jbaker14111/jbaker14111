@@ -10,10 +10,10 @@ diverse group of professionals in the pursuit of a successful cybersecurity care
 &emsp; I am glad you are viewing my GitHub. Please look around. You will find my projects, papers, and certificates I have completed. These are frequently being updated, so please visit regularly!
 
 <h2>Projects</h2>
-<a href="https://github.com/jbaker14111/cpp_Recursion">Recursion and Formatting Output in C++ </a>
+<a href="https://github.com/jbaker14111/cpp_Recursion">Recursion and Formatting Output in C++ </a> <br> <br>
 <a href="https://github.com/jbaker14111/C-Class-Creation">Basic Class Creation in C++ </a>
 <h2>Papers</h2>
-<a href="/Papers/Email_Policy_Josiah_Baker.pdf">Email Policy Paper </a></br></br>
+<a href="/Papers/Email_Policy_Josiah_Baker.pdf">Email Policy Paper </a><br><br>
 <a href="/Papers/SQL_Experience.pdf">SQL Experience </a> </br></br>
 <a href="/Papers/Acceptable_Encryption_Policy_Josiah_Baker.pdf">Acceptable Encryption Policy</a> 
 <h2>Certificates</h2>
