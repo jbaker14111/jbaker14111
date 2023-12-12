@@ -13,6 +13,7 @@ diverse group of professionals in the pursuit of a successful cybersecurity care
 <a href="https://github.com/jbaker14111/cpp_Recursion">Recursion and Formatting Output in C++ </a> <br> <br>
 <a href="https://github.com/jbaker14111/C-Class-Creation">Basic Class Creation in C++ </a> <br> <br>
 <a href="https://github.com/jbaker14111/cpp_Vectors_and_File_Reading/tree/main">C++ Vectors and File Reading </a><br><br>
+<a href="https://github.com/jbaker14111/cpp_Class_Composition">C++ Class Composition </a><br><br>
 <h2>Papers</h2>
 <a href="/Papers/Email_Policy_Josiah_Baker.pdf">Email Policy Paper </a><br><br>
 <a href="/Papers/SQL_Experience.pdf">SQL Experience </a> </br></br>
