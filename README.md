@@ -16,6 +16,7 @@ diverse group of professionals in the pursuit of a successful cybersecurity care
 <a href="https://github.com/jbaker14111/cpp_Class_Composition">C++ Class Composition </a><br><br>
 <a href="https://github.com/jbaker14111/cpp_Encryption">C++ Encryption </a><br><br>
 <a href="https://github.com/jbaker14111/cpp_Pointer_Array">C++ Pointer Array, Dynamic Memory Allocation </a><br><br>
+<a href="https://github.com/jbaker14111/cpp_Inheritance_and_Operator_Overload/tree/main">C++ Inheritance and Operator Overloading </a>
 <h2>Papers</h2>
 <a href="/Papers/Email_Policy_Josiah_Baker.pdf">Email Policy Paper </a><br><br>
 <a href="/Papers/SQL_Experience.pdf">SQL Experience </a> </br></br>
