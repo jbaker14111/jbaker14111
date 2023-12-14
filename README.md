@@ -10,10 +10,7 @@ diverse group of professionals in the pursuit of a successful cybersecurity care
 &emsp; I am glad you are viewing my GitHub. Please look around. You will find my projects, papers, and certificates I have completed. These are frequently being updated, so please visit regularly!
 
 <h2>Projects</h2>
-<a href="https://github.com/jbaker14111/cpp_Recursion">C++ Recursion and Formatting Output </a> <br> <br>
-<a href="https://github.com/jbaker14111/C-Class-Creation">C++ Basic Class Creation</a> <br> <br>
 <a href="https://github.com/jbaker14111/cpp_Vectors_and_File_Reading/tree/main">C++ Vectors and File Reading </a><br><br>
-<a href="https://github.com/jbaker14111/cpp_Class_Composition">C++ Class Composition </a><br><br>
 <a href="https://github.com/jbaker14111/cpp_Encryption">C++ Encryption </a><br><br>
 <a href="https://github.com/jbaker14111/cpp_Pointer_Array">C++ Pointer Array, Dynamic Memory Allocation </a><br><br>
 <a href="https://github.com/jbaker14111/cpp_Inheritance_and_Operator_Overload/tree/main">C++ Inheritance and Operator Overloading </a>
