@@ -24,4 +24,5 @@ Currently in pursuit of my Google Cybersecurity Professional Certificate. Expect
 <img src="/Certificates/GoogleFoundationsToCybersecurityCert.jpg" width="400">
 <img src="/Certificates/GooglePlayItSafeManageSecurityRisks.png" width="400">
 <img src="/Certificates/GoogleConnectAndProtectNetworksAndNetworkSecurity.png" width="400">
+<img src="/Certificates/GoogleToolsOfTheTradeLinuxAndSQL.png" width="400">
 
